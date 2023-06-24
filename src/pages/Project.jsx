@@ -6,7 +6,6 @@ import { projects } from '../helpers/projectList';
 
 
 import BtnGitHum from '../components/btnGitHub/BtnGitHum';
-import img from './../img/projects/02-big.jpg'
 
 
 
